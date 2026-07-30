@@ -157,4 +157,3 @@ localized ischemia, painful ischemic episodes and early destruction of the RBCs
 (haemolysis), resulting in anemia and progressively causing organ damage.
 
 ![Sickle cell hemoglobin highlighting the valine mutation](https://github.com/AryanPaste/hemoglobin-structure-function/blob/main/Images/Mutated-Valine.png)
-
