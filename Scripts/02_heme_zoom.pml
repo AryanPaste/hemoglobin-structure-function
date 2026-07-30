@@ -23,4 +23,4 @@ color orange, iron_ions
 set sphere_scale, 0.8, iron_ions
 
 # 6. Zoom in on a single heme pocket (Chain A) for a dramatic close-up
-zoom (resn HEM and chain A), 12
+zoom (resn HEM and chain A), 12.
