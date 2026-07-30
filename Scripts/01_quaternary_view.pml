@@ -16,4 +16,4 @@ color firebrick, chain B+D
 # 5. Add a transparent outer surface to emphasize the "globular" 3D shape
 show surface, all
 set transparency, 0.5
-color white, surface
+color white, surface.
