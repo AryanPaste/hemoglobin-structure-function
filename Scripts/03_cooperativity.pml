@@ -20,4 +20,4 @@ show cartoon, 1A3N
 color magenta, 1A3N
 
 # 6. Center the camera
-zoom all
+zoom all.
